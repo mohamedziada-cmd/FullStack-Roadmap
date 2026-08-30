@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "مسار ShopX · FullStack .NET 10 + React · 24 أسبوع",
+      "hasCanvas": false,
+      "bodyTextLen": 2814,
+      "bodyTextHash": "93abb13a93cc1e36525d2e4fb61f5775abcde423da34939e216e90cb3015e6ca",
+      "bodyTextPrefix": "تخطّي إلى المحتوى مسار ShopX FullStack .NET 10 + React · 24 أسبو",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "مسار ShopX · FullStack .NET 10 + React · 24 أسبوع",
+      "hasCanvas": false,
+      "bodyTextLen": 2599,
+      "bodyTextHash": "8bf70d76caf53fe3e7e186a64857967f555963a06773424a479c4285f469352d",
+      "bodyTextPrefix": "تخطّي إلى المحتوى مسار ShopX FullStack .NET 10 + React · 24 أسبو",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
